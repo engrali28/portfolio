@@ -1,0 +1,33 @@
+.navbar-brand{
+    margin-right: 20px;
+}
+body{
+    background-color:#ccc  
+ }
+ #bg-img{
+     background: url(https://cdn.mos.cms.futurecdn.net/A4GDK27VMnz6LtFDy9yzk.jpg);
+     background-size: 100%;
+     background-repeat: no-repeat;
+     min-height: 500px;
+ }
+ #about{
+     margin-top: -200px;
+ }
+ #about .fa{
+     color: whitesmoke;
+ }
+ #about span{
+     padding: 10px 20px 10px 20px;
+ }
+ #about hr{
+     border-width: 2px;
+     margin-top: 06px;
+ }
+ #skills span{
+    padding: 10px 20px 10px 20px;
+ }
+ #skills hr{
+      border-width: 2px;
+    margin-top: 06px;
+
+ }
